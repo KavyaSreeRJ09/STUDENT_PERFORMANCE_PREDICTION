@@ -9,21 +9,21 @@ OBJECTIVES:
 
 Here, we will
 
-•	Predict whether or not a student will pass the final exam based on certain information given
+    •	Predict whether or not a student will pass the final exam based on certain information given
 
-•	Compare the three learning algorithms
+    •	Compare the three learning algorithms
 
-•	Find out what most affects student achievement
+    •	Find out what most affects student achievement
 
-•	Find the best algorithm with high accuracy
+    •	Find the best algorithm with high accuracy
 
 We will be using three learning algorithms:
 
-•	Logistic regression
+    •	Logistic regression
 
-•	Supported vector machine
+    •	Supported vector machine
 
-•	KNN
+    •	KNN
 
 DATASET USED:
 
